@@ -9,7 +9,7 @@ package dict421.gitassignmentproject;
  * @author mamag
  */
 public class Main {
-    public static void main(String[] args) {
-    System.out.println("Main branch: Hello NetBeans. Version control is vital!");
+   public static void main(String[] args) {
+    System.out.println("Conflict demo branch: This line will cause a merge conflict.");
     }
 }
