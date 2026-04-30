@@ -10,6 +10,6 @@ package dict421.gitassignmentproject;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Net. Welcome to version control using Github");
+        System.out.println("Hello Netbeans. Welcome to version control using Github");
     }
 }
