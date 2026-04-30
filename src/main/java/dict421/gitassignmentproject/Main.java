@@ -10,6 +10,6 @@ package dict421.gitassignmentproject;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello NetBeans. Welcome to version control using Git");
+    System.out.println("Main branch: Hello NetBeans. Version control is vital!");
     }
 }
